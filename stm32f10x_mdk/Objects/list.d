@@ -1,0 +1,9 @@
+.\objects\list.o: ..\eBox_STM32F1\ebox\core\stdFun\list.cpp
+.\objects\list.o: ..\eBox_STM32F1\ebox\core\stdFun\list.h
+.\objects\list.o: ..\eBox_STM32F1\ebox\core\stdFun\list.h
+.\objects\list.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\list.o: ..\eBox_STM32F1\ebox\core\stdFun\ebox_mem.h
+.\objects\list.o: ..\ebox_STM32F1\ebox\core\ebox_type.h
+.\objects\list.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\list.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\list.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\ctype.h

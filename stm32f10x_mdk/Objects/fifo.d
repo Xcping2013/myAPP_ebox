@@ -1,0 +1,9 @@
+.\objects\fifo.o: ..\eBox_STM32F1\ebox\core\stdFun\fifo.c
+.\objects\fifo.o: ..\eBox_STM32F1\ebox\core\stdFun\fifo.h
+.\objects\fifo.o: ..\ebox_STM32F1\ebox\core\ebox_type.h
+.\objects\fifo.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fifo.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\fifo.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\fifo.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\fifo.o: ..\eBox_STM32F1\ebox\core\stdFun\ebox_mem.h
+.\objects\fifo.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdlib.h

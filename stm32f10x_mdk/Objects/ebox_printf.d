@@ -1,0 +1,10 @@
+.\objects\ebox_printf.o: ..\eBox_STM32F1\ebox\core\stdFun\ebox_printf.c
+.\objects\ebox_printf.o: ..\eBox_STM32F1\ebox\core\stdFun\ebox_printf.h
+.\objects\ebox_printf.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ebox_printf.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\ebox_printf.o: ..\eBox_STM32F1\ebox\core\stdFun\fifo.h
+.\objects\ebox_printf.o: ..\ebox_STM32F1\ebox\core\ebox_type.h
+.\objects\ebox_printf.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ebox_printf.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\ebox_printf.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\ebox_printf.o: ..\eBox_STM32F1\ebox\core\stdFun\ebox_mem.h

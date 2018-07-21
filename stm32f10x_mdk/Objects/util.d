@@ -1,0 +1,9 @@
+.\objects\util.o: ..\eBox_STM32F1\ebox\core\stdFun\util.c
+.\objects\util.o: ..\eBox_STM32F1\ebox\core\stdFun\util.h
+.\objects\util.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\util.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\util.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\util.o: ..\ebox_STM32F1\ebox\core\ebox_type.h
+.\objects\util.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\util.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\util.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\ctype.h

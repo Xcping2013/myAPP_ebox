@@ -1,0 +1,16 @@
+.\objects\print.o: ..\eBox_STM32F1\ebox\core\stdFun\print.cpp
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\print.o: ..\eBox_STM32F1\ebox\core\stdFun\Print.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\print.o: ..\eBox_STM32F1\ebox\core\stdFun\WString.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\print.o: ..\eBox_STM32F1\ebox\core\stdFun\itoa.h
+.\objects\print.o: ..\eBox_STM32F1\ebox\core\stdFun\Printable.h
+.\objects\print.o: ..\eBox_STM32F1\ebox\core\stdFun\ebox_mem.h
+.\objects\print.o: ..\ebox_STM32F1\ebox\core\ebox_type.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\print.o: D:\hardware\ARM_V5\ARM\ARMCC\Bin\..\include\stdarg.h
